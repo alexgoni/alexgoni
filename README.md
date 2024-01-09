@@ -1,5 +1,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgoni&show_icons=true&theme=radical)
 
+Hello, I am a web frontend developer who strives to be a problem solver. 
+I am highly interested in implementing digital twins and 3D information on the web to provide a new user experience. 
+I also have practical experience in developing GIS web applications based on the Cesium library.
+
+I am currently focusing on studying code that is easy to maintain, and I am gaining experience in both frontend and backend development. Through this, my goal is to become a full-stack developer.
 <!--
 **alexgoni/alexgoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
