@@ -11,6 +11,6 @@ I also have practical experience in developing GIS web applications based on the
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgoni&show_icons=true&theme=radical)
 
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgoni&layout=compact&theme=tokyonight)
 
 
