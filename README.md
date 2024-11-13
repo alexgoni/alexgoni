@@ -9,6 +9,14 @@ I also have practical experience in developing GIS web applications based on the
 
 <br />
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/alexgoni"
+  width="600"
+  height="300"
+/>
+</a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgoni&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgoni&layout=compact&theme=tokyonight)
